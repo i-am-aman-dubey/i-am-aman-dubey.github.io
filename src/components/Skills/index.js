@@ -135,7 +135,7 @@ const Skills = () => {
       <Wrapper>
         <Title>Skills</Title>
         <Desc>
-          Here are some of the skills I have learned from Masai School over the past 9 months.
+          Here are some of the technical skills I have developed through continuous learning and hands-on practice during my web development journey.
         </Desc>
         <SkillsContainer className='skills-card'>
           {skills.map((skill, index) => (

@@ -1,18 +1,18 @@
 import React from 'react'
 import HeroBgAnimation from '../HeroBgAnimation'
 import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, HeroInnerContainer, TextLoop, Title, Span, SubTitle, ResumeButton } from './HeroStyle'
-import HeroImg from '../../images/HeroImage.png'
+import HeroImg from '../../images/AmanImage.png'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
 
 const HeroSection = () => {
 
     const resumebtn = ()=>{
-        const pdfPath = 'Shivam-Dubey-Resume.pdf';
+        const pdfPath = 'Aman_Dubey_Resume .pdf';
         window.open(pdfPath,'_blank');
         const downloadLink = document.createElement('a');
         downloadLink.href = pdfPath;
-        downloadLink.download = 'Shivam-Dubey-Resume.pdf';
+        downloadLink.download = 'Aman_Dubey_Resume .pdf';
         downloadLink.click();
     }
 

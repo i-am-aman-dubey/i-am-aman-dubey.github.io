@@ -38,7 +38,7 @@ function App() {
             <Projects />
           </Wrapper>
           <Wrapper>
-          <GitStats />
+          {/* <GitStats /> */}
             {/* <Contact /> */}
           </Wrapper>
           <Footer />

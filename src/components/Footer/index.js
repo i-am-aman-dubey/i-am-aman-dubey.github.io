@@ -87,7 +87,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Shivam Dubey</Logo>
+        <Logo>Aman Dubey</Logo>
         <Nav>
           <NavLink href="#home">Home</NavLink>
           <NavLink href="#about">About</NavLink>
@@ -98,7 +98,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Shivam Dubey. All rights reserved.
+          &copy; 2023 Aman Dubey. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
