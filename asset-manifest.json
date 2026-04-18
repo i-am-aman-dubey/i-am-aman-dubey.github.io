@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.5822cf9e.js",
+    "static/media/AmanImage.png": "/static/media/AmanImage.b8a9296fb15a9098b31c.png",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.5822cf9e.js.map": "/static/js/main.5822cf9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.5822cf9e.js"
+  ]
+}
