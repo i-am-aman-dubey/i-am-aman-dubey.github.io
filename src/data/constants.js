@@ -142,18 +142,18 @@ export const projects = [
     github: "https://github.com/i-am-aman-dubey/weather-app-",
     webapp: "https://weather-news-a.netlify.app/",
   },
-  // {
-  //   id: 2,
-  //   title: "Journey Makers",
-  //   description: "Developed a travel ticket booking site using HTML, CSS, and JS, showcasing skills in front-end web development and user interface design.",
-  //   image:
-  //     "Journey-Makers.png",
-  //   tags: [
-  //     "HTML", "CSS", "React"
-  //   ],
-  //   github: "https://github.com/shivamdubeyagra/Journey-Makers",
-  //   webapp: "https://fluffy-stroopwafel-b04a2b.netlify.app/",
-  // },
+  {
+    id: 2,
+    title: "Modern Ecommerce Store",
+    description: "Built a responsive ecommerce frontend using React, Vite, Tailwind CSS, and reusable libraries featuring smooth UI interactions, dynamic sections, and optimized performance.",
+    image:
+      "ecommerce.png.jpg",
+    tags: [
+      "React.js","Vite","Tailwind Css","React Libraries","Local Storage"
+    ],
+    github: "https://github.com/i-am-aman-dubey/ecommerce-project",
+    webapp: "https://aman-ecommerce-store.netlify.app/",
+  },
   // {
   //   id: 3,
   //   title: "FreshBasket",
